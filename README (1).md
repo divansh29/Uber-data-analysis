@@ -85,4 +85,5 @@ Feel free to reach out to any of the collaborators for questions or further info
 
 
 ## Sample of Dashboard
-<img src= "Dashboard.png">
+<img width="1123" height="628" alt="Dashboard (1)" src="https://github.com/user-attachments/assets/ad4e8986-87ca-4ce0-95ae-77733685106e" />
+
